@@ -4,7 +4,7 @@ Group : 2
 
 Team mates :
 1.
-2.
+2. Muhammad Zikry bin Zulkipli (2219579)
 3. Nur Atiqah Batrisyia binti Azmi (2123218)
 
 ## Title Of The Project
