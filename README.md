@@ -14,10 +14,15 @@ BakulFresh
 BakulFresh is a web-based application that allow users to order fresh ingredients, just as if they were at the market. Having no transportation to go to the market or find the smell of the market off-putting, BakulFresh provides the best solution. Users can place orders, and their fresh ingredients will be delivered in front of their doorstep. 
 
 ## The Objective Of The Proposed Web Application
-1. 
+1. Convenience : BakulFresh provide a platform to order fresh ingredients online, eliminating the need to visit physical markets. By using BakulFresh, it can save valuable time by simply adding items to the cart and completing the order.
 
+2. Local Support : BakulFresh collaborates and promotes local businesses, fostering a mutually benficial relationship. By sourcing fresh ingredients directly from sellers to customers, we can contribute to their income while ensuring quality to the users.
+
+3.  Halal and Freshness Assurance : BakulFresh ensures that all ingredients are Halal as it caters to Muslim communities from Muslim businesses. It also maintain the quality and freshness of ingredients during doorstep delivery.
 
 ## Features And Functionalities Of The Proposed Web Application
+1. Ordering
+
 ## ER Diagram For Database Table With Relationship
 ## Sequence Diagram To Represent The Interaction Of The Proposed Web Application
 ## References
