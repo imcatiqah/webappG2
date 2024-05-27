@@ -33,5 +33,5 @@ BakulFresh is a web-based application that allow users to order fresh ingredient
 
 ## Sequence Diagram To Represent The Interaction Of The Proposed Web Application
 ## References
-https://www.hellofresh.com/
-https://itsourcecode.com/free-projects/database-design-projects/frozen-foods-ordering-system-database-design/
+1. Hellofresh. (2023). #1 Meal Kit Delivery Service | Fresh Meal Delivery | HelloFresh. Hellofresh. https://www.hellofresh.com/
+2. itsourcecode. (2018, December 5). Frozen Foods Ordering System Database Design. Itsourcecode.com. https://itsourcecode.com/free-projects/database-design-projects/frozen-foods-ordering-system-database-design/
