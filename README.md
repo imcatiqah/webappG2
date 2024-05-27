@@ -29,8 +29,7 @@ BakulFresh is a web-based application that allow users to order fresh ingredient
 6. Delivery - User can choose preferred delivery dates and times. User can track the status of their order.
 
 ## ER Diagram For Database Table With Relationship
-![BakulFresh-ERD](https://github.com/imcatiqah/webapp_group2/assets/170592429/e5d10cb8-6fd8-48bb-a262-8fd251d31851)
-
+![BakulFresh-ERD-1](https://github.com/imcatiqah/webapp_group2/assets/170592429/d49fe6de-0d0f-4f7f-8b22-d2737b051c38)
 
 ## Sequence Diagram To Represent The Interaction Of The Proposed Web Application
 ## References
