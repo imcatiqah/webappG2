@@ -32,3 +32,4 @@ BakulFresh is a web-based application that allow users to order fresh ingredient
 ## Sequence Diagram To Represent The Interaction Of The Proposed Web Application
 ## References
 https://www.hellofresh.com/
+https://itsourcecode.com/free-projects/database-design-projects/frozen-foods-ordering-system-database-design/
